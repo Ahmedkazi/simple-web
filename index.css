@@ -1,0 +1,65 @@
+section{
+    display: flex;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-evenly;
+    margin-right: 200px;
+    
+    
+   }
+   h1{
+       font-size: 80px;
+       margin-left: 20px;
+       font-weight:bolder;
+       color: gray;
+       margin-bottom: 20px;
+   }
+   .img1{
+       margin-left: 20px;
+       border-radius:30px;
+       width: 25%;
+   
+   }
+   .grey{
+       color: gray;
+   }
+   .img2{
+       width: 400px;
+       border-radius: 30px;
+       margin-left: 30px;
+   }
+   
+   h2{
+       font-weight: 800;
+       font-size: 30px;
+   }
+   .middle{
+       text-align: left;
+       padding: 30px;
+       text-align: justify;
+       margin-left: 20px;
+       
+   
+   }
+   .bottom{
+       border: grey solid 1px;
+       margin: 30px;
+       padding: 20px;
+       text-align: justify;
+       box-shadow:5px 10px 10px 5px grey;
+       
+   
+   }
+   .dubaiimg{
+       width: 30%;
+   }
+   .h2{
+       margin-left: 30px;
+   }
+   p{
+       color: grey;
+   }
+   .border img{
+       border-radius: 10px;
+   }
+   
